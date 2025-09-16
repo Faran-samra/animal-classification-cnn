@@ -39,7 +39,7 @@ The best performing model is **MobileNetV2** achieving **~87% accuracy** on vali
 
 ## 🔧 Installation
 ```bash
-git clone https://github.com/YourUsername/animal-classification-cnn.git
+git clone git@github.com:Faran-samra/animal-classification-cnn.git
 cd animal-classification-cnn
 pip install -r requirements.txt
 streamlit run app.py
