@@ -1,0 +1,27 @@
+# Ignore datasets
+animal_data/
+.ipynb_checkpoints/
+
+# Ignore model weights (too large, use Git LFS if needed)
+*.h5
+*.keras
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Jupyter notebook checkpoints
+*.ipynb_checkpoints
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# OS specific
+.DS_Store
+Thumbs.db
